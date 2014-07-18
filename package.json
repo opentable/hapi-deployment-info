@@ -1,0 +1,31 @@
+{
+  "name": "hapi-deployment-info",
+  "version": "1.0.0",
+  "description": "plugin for the deployment-info endpoint",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opentable/hapi-deployment-info.git"
+  },
+  "author": "Andy Royle <ajroyle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opentable/hapi-deployment-info/issues"
+  },
+  "homepage": "https://github.com/opentable/hapi-deployment-info",
+  "devDependencies": {
+      "grunt": "^0.4.4",
+      "grunt-cli": "^0.1.13",
+      "grunt-contrib-clean": "^0.5.0",
+      "grunt-contrib-jshint": "^0.10.0",
+      "grunt-mocha-test": "^0.10.2",
+      "should": "^3.3.1"
+  },
+  "dependencies": {}
+}
