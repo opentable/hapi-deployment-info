@@ -7,7 +7,7 @@ Returns deployment-info (specified in config).
 
 Installation:
 
-```npm install hapi-deployment-info```
+```npm install --save hapi-deployment-info```
 
 Usage:
 
